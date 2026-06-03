@@ -67,6 +67,7 @@ Built an interactive dashboard with:
 - Donut chart — Borrower Risk Distribution across 4 tiers
 - Bar chart — Default Rate by Risk Tier (with % labels)
 - Risk Tier Slicer — for interactive filtering
+- ![Credit Risk Dashboard](dashboard_preview.png)
 - 📎 [View Dashboard PDF](credit_risk_dashboard.pdf)
 
 ---
